@@ -1,4 +1,6 @@
 
+# Privacy Policy
+
 ## Our Policy for Storing information on the jobs.scot.nhs.uk website
 Our policy is summarised in the commitments below:
 
