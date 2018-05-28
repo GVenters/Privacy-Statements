@@ -1,32 +1,41 @@
 
 ## Our Policy for Storing information on the jobs.scot.nhs.uk website
 Our policy is summarised in the commitments below:
-•	We are committed to telling you what information we store about you. 
-•	We are committed to telling you why we thing we can store it.
-•	We are committed to keeping what we store secure.
-•	We are committed to giving you as much control over what we store as reasonably possible.
-•	We are also committed to making these as clear as possible for you so if find some of the explanations on this page difficult to understand, please let us know. You can do this by sending an email to nss.showteam@nhs.net 
 
-##Introduction
+*	We are committed to telling you what information we store about you. 
+*	We are committed to telling you why we thing we can store it.
+*	We are committed to keeping what we store secure.
+*	We are committed to giving you as much control over what we store as reasonably possible.
+*	We are also committed to making these as clear as possible for you so if find some of the explanations on this page difficult to understand, please let us know. You can do this by sending an email to nss.showteam@nhs.net 
+
+## Introduction
  This page explains how we collect and use your personal data and how you can exercise control over what we it.
-What is personal data
+ 
+### What is personal data
 Personal data is any data that relates to you and which can be used on its own or in combination with other information that we hold to identify you. 
 Examples of information that identifies you could be could be your home address, your email address, your passport number, your driving licence number or your NHS identifier (CHI number).
+
 Examples of information that could be combined with other information to identify you could be your name, your date of birth, your postcode, your IP address or a web cookie, your ethnicity, religion, gender or religion.
+
 Application forms that you can complete through this site may contain many of the above examples.
-What makes us think we can keep your information?  (Legal Basis for Storing the Data)
+
+### What makes us think we can keep your information?  (Legal Basis for Storing the Data)
 When you enter information on a form in the site, we are keeping your data because we believe that you have consented to us keeping it. This means that we think that the legal basis for keeping the data is your consent.
-What do we think you have allowed us to store and what will we do with it?
+
+## What do we think you have allowed us to store and what will we do with it?
 We keep personal information that we believe you have consented to. We use it for the purposes set out below.
 
 If you complete an application then we believe:
-    1.	That you have allowed us to send on your application to the employers who are advertising jobs on this site. They will use the information for selection and recruitment of candidates seeking employment; for maintaining statistics on the fairness and equality of the recruitment process and, in the case of candidates who are successful in their applications, as part of their staff record. The actual employer that you send the information to is made clear in the advert for which you complete an application.
-    2.	That you have allowed us to keep a copy of your application for 90 days for the following purposes:
-        a.	So that we are able to re-transmit the application to the employing organisation if there is any issue during the employment process.
-        b.	So that you can apply for other opportunities without having to re-enter the information from the form.
+1.	That you have allowed us to send on your application to the employers who are advertising jobs on this site. They will use the information for selection and recruitment of candidates seeking employment; for maintaining statistics on the fairness and equality of the recruitment process and, in the case of candidates who are successful in their applications, as part of their staff record. The actual employer that you send the information to is made clear in the advert for which you complete an application.
+
+2.	That you have allowed us to keep a copy of your application for 90 days for the following purposes:
+    a.	So that we are able to re-transmit the application to the employing organisation if there is any issue during the employment process.
+    b.	So that you can apply for other opportunities without having to re-enter the information from the form.
 Note that providing data for the statistics that are used for maintaining a fair and equal recruitment process is optional and there will be no impact on your individual application for employment should you not wish to answer these questions.
+
 We believe that you have allowed us to do this as there is a notice at the beginning of our application form that tells you that you are giving consent when you complete an application.
-Tracking cookies and compliance cookies
+
+### Tracking cookies and compliance cookies
 
 We keep anonymised tracking cookies that can’t be used to track you as an individual but do how you the use of the website. Because they can’t be used to track you we don’t consider these to be personal information but we still need your consent to use. You can give your consent by clicking on the consent button on the cookie choice banner. If you click the “I consent” button, this will also set a compliance cookie that allows us to remember that you have given your consent. If you don’t click on the “I consent button” then the cookie notice will continue to appear whenever you access the site. We can only record consent on a device by device basis so if you access the site on a tablet, a work computer or a mobile phone, you’ll need to give consent for each one
  We will continue to review our use of these cookies as best practice develops and make efforts to comply with best practice on anonymised tracking cookies.
@@ -36,15 +45,16 @@ We keep anonymised tracking cookies that can’t be used to track you as an indi
 ### Your right to be forgotten
 Although we hold your information for the reasons set out above, you have rights for your data to be erased or “forgotten”.
 In certain cases, these rights may be limited by 
-•	legal obligations applicable to the controller; 
-•	public interest;
-•	scientific, statistical and historical archiving; and 
+*    legal obligations applicable to the controller; 
+*    public interest;
+*	scientific, statistical and historical archiving; and 
 •	freedom of expression and information; 
 •	the establishment, exercise or defence of legal claims. 
 But generally, we will erase your personal data without undue delay where: 
-1)	we no longer need it for the purposes that you have agreed to
-2)	you withdraw your consent to us collecting, holding or processing your data
-3)	we are otherwise obliged to remove the data
+1.	we no longer need it for the purposes that you have agreed to
+2.	you withdraw your consent to us collecting, holding or processing your data
+3.	we are otherwise obliged to remove the data
+
 ### Withdrawing consent
 If you change your mind about giving your consent to us holding information on your application, you can let us know and we’ll remove your details once we have verified your identity.
 You can let us know by sending an email to nss.showteam@nhs.net.
