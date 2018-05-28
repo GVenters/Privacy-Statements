@@ -29,8 +29,10 @@ If you complete an application then we believe:
 1.	That you have allowed us to send on your application to the employers who are advertising jobs on this site. They will use the information for selection and recruitment of candidates seeking employment; for maintaining statistics on the fairness and equality of the recruitment process and, in the case of candidates who are successful in their applications, as part of their staff record. The actual employer that you send the information to is made clear in the advert for which you complete an application.
 
 2.	That you have allowed us to keep a copy of your application for 90 days for the following purposes:
-    a.	So that we are able to re-transmit the application to the employing organisation if there is any issue during the employment process.
-    b.	So that you can apply for other opportunities without having to re-enter the information from the form.
+
+    * So that we are able to re-transmit the application to the employing organisation if there is any issue during the employment process.
+    *	So that you can apply for other opportunities without having to re-enter the information from the form.
+    
 Note that providing data for the statistics that are used for maintaining a fair and equal recruitment process is optional and there will be no impact on your individual application for employment should you not wish to answer these questions.
 
 We believe that you have allowed us to do this as there is a notice at the beginning of our application form that tells you that you are giving consent when you complete an application.
@@ -50,32 +52,45 @@ In certain cases, these rights may be limited by
 *	scientific, statistical and historical archiving; and 
 •	freedom of expression and information; 
 •	the establishment, exercise or defence of legal claims. 
-But generally, we will erase your personal data without undue delay where: 
+
+But generally, we will erase your personal data without undue delay where:
+
 1.	we no longer need it for the purposes that you have agreed to
 2.	you withdraw your consent to us collecting, holding or processing your data
 3.	we are otherwise obliged to remove the data
 
 ### Withdrawing consent
 If you change your mind about giving your consent to us holding information on your application, you can let us know and we’ll remove your details once we have verified your identity.
-You can let us know by sending an email to nss.showteam@nhs.net.
-For our anonymous tracking cookies, you can effectively withdraw your consent at any time by using the Do Not Track settings within your browser or by removing the cookie from your browser.. 
 
-Is there anything we keep that isn’t based on your consent?
+You can let us know by sending an email to nss.showteam@nhs.net.
+
+For our anonymous tracking cookies, you can effectively withdraw your consent at any time by using the Do Not Track settings within your browser or by removing the cookie from your browser. 
+
+### Is there anything we keep that isn’t based on your consent?
 Yes.
 We keep session cookies (see our cookies page for more information).
 We do this to be able to operate the site correctly. Session cookies are used to make sure that your session is kept separate from other users of the site and to make sure that things like going from page to page on the site work properly. These cookies only last for as long as we think you are using the site and are essential for the website to function properly and to maintain its security. 
 How long we keep your data.
+
 We take the information that we collect from your application forms and pass it on to the employer who is processing the vacancy so that they can progress your application. We keep your application on record for 90 days from the last time you applied.
 We keep error and security logs for at least 12 months and potentially longer if we need to use them in connection with investigations of suspected malicious or illegal intent.
-International transfers
+
+### International transfers
 We do not transfer any of your data outwith the UK.
-Enquiries about our privacy policy
+
+### Enquiries about our privacy policy
 Privacy and data protection enquiries relating to this website may be made in writing to:
+
 NSS Data Protection Officer
+
 NHS National Services Scotland 
+
 Gyle Square
+
 1 South Gyle Crescent
+
 Edinburgh
+
 EH12 9EB
 
 Email: NSS.dataprotection@nhs.net
