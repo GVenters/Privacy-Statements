@@ -21,7 +21,7 @@ Examples of information that could be combined with other information to identif
 
 Application forms that you can complete through this site may contain many of the above examples.
 
-### What makes us think we can keep your information?  (Legal Basis for Storing the Data)
+## What makes us think we can keep your information?  (Legal Basis for Storing the Data)
 When you enter information on a form in the site, we are keeping your data because we believe that you have consented to us keeping it. This means that we think that the legal basis for keeping the data is your consent.
 
 ## What do we think you have allowed us to store and what will we do with it?
@@ -41,8 +41,9 @@ We believe that you have allowed us to do this as there is a notice at the begin
 
 ### Tracking cookies and compliance cookies
 
-We keep anonymised tracking cookies that can’t be used to track you as an individual but do how you the use of the website. Because they can’t be used to track you we don’t consider these to be personal information but we still need your consent to use. You can give your consent by clicking on the consent button on the cookie choice banner. If you click the “I consent” button, this will also set a compliance cookie that allows us to remember that you have given your consent. If you don’t click on the “I consent button” then the cookie notice will continue to appear whenever you access the site. We can only record consent on a device by device basis so if you access the site on a tablet, a work computer or a mobile phone, you’ll need to give consent for each one
- We will continue to review our use of these cookies as best practice develops and make efforts to comply with best practice on anonymised tracking cookies.
+We keep anonymised tracking cookies that can’t be used to track you as an individual but do how you the use of the website. Because they can’t be used to track you we don’t consider these to be personal information but we still need your consent to use. You can give your consent by clicking on the consent button on the cookie choice banner. If you click the “I consent” button, this will also set a compliance cookie that allows us to remember that you have given your consent. If you don’t click on the “I consent button” then the cookie notice will continue to appear whenever you access the site. We can only record consent on a device by device basis so if you access the site on a tablet, a work computer or a mobile phone, you’ll need to give consent for each one.
+
+We will continue to review our use of these cookies as best practice develops and make efforts to comply with best practice on anonymised tracking cookies.
 
 ## What if I want to withdraw my consent or want to be forgotten?
 
@@ -109,8 +110,6 @@ Cookies used for the essential operation of a website
 | Cookie  | Expires  | 	Notes  |
 |  ASP.net |  session id  | SessionId	Used for providing a consistent experience in your use of the website and distinguishing your visits to the site from other peoples while you are using the site.  |
 
-
-
 ## Tracking Cookies
 We use tracking cookies to record information about your use of the website, for example, which pages you have visit, how long you visit the site for and where which pages you have landed on and how you have navigated through the site. 
 We group all of the data we collect from these cookies to be able to find out:
@@ -126,7 +125,6 @@ The raw information gathered is not shared directly with any third party.  Aggre
 
 ### Matomo analytics tracking cookies
 
-
 | Cookie  | Expires  | 	Notes  |
 |---|---|---|
 | PIWIK_SESSID  | 	Session	  | We use the Matomo web tracking software to record information about your use of the website, for example, which pages you have visit, how long you visit the site for and where which pages you have landed on and how you have navigated through the site. This is done through use of tracking cookies. These are anonymised so they can’t be used to track you.  |
@@ -135,9 +133,6 @@ The raw information gathered is not shared directly with any third party.  Aggre
 |_pk_ses.3.b1c1   | session	 |   |
 |   |   |   |
 	 
-	
-	
-
 #### Our analytics will honour “Do Not Track” settings in your browser
 Your browser should have a mechanism that will allow you to decide how cookies are to be treated. One of the settings that you can use is Do Not Track (see https://iapp.org/news/a/do-not-track-2-0/  for more information).
 
