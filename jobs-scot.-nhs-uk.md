@@ -104,9 +104,10 @@ We also use cookies to track typical usage of the website by our users so that w
 ### What is a cookie?
 A cookie is a small piece of information that is included with requests for web pages. They are stored by your browser on your device and sent to the website that you are requesting pages from. The Web application can read the information in cookies sent to it whenever the user visits the site from a browser which is storing cookies.
 Cookies used for the essential operation of a website
+| Cookie  | Expires  | 	Notes  |
+|  ASP.net |  session id  | SessionId	Used for providing a consistent experience in your use of the website and distinguishing your visits to the site from other peoples while you are using the site.  |
 
-ASP.net session id
-SessionId	Used for providing a consistent experience in your use of the website and distinguishing your visits to the site from other peoples while you are using the site.
+
 
 ## Tracking Cookies
 We use tracking cookies to record information about your use of the website, for example, which pages you have visit, how long you visit the site for and where which pages you have landed on and how you have navigated through the site. 
@@ -122,12 +123,18 @@ These are turned into aggregated reports which cannot be used to identify you an
 The raw information gathered is not shared directly with any third party.  Aggregated reports which cannot be used to identify you may be shared with employers so that they can see how their job adverts are performing. These reports are retained on our reporting dashboards for 3 months. 
 
 ### Matomo analytics tracking cookies
-Cookie	Expires 	Notes
-PIWIK_SESSID	Session	We use the Matomo web tracking software to record information about your use of the website, for example, which pages you have visit, how long you visit the site for and where which pages you have landed on and how you have navigated through the site. This is done through use of tracking cookies. These are anonymised so they can’t be used to track you.
- 
-_pk_id.3.b1c1	2 months	
-_pk_ref.3.b1c1	6 months	
-_pk_ses.3.b1c1	session	
+
+
+| Cookie  | Expires  | 	Notes  |
+|---|---|---|
+| PIWIK_SESSID  | 	Session	  | We use the Matomo web tracking software to record information about your use of the website, for example, which pages you have visit, how long you visit the site for and where which pages you have landed on and how you have navigated through the site. This is done through use of tracking cookies. These are anonymised so they can’t be used to track you.  |
+| _pk_id.3.b1c1  | 2 months	  |   |
+|  _pk_ref.3.b1c1	 | 6 months  |   |
+|_pk_ses.3.b1c1   | session	 |   |
+|   |   |   |
+	 
+	
+	
 
 #### Our analytics will honour “Do Not Track” settings in your browser
 Your browser should have a mechanism that will allow you to decide how cookies are to be treated. One of the settings that you can use is Do Not Track (see https://iapp.org/news/a/do-not-track-2-0/  for more information).
