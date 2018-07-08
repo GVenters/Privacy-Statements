@@ -166,6 +166,6 @@ There are other ways that can identify your use of the website to another organi
 ### Further Information on GDPR
 https://www.eugdpr.org/ 
 
-### To suggest amendments to this form:
+### To suggest amendments to this page:
 https://github.com/GVenters/Privacy-Statements/edit/master/jobs-scot.-nhs-uk.md
 
