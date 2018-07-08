@@ -23,7 +23,7 @@ Examples of information that could be combined with other information to identif
 Application forms that you can complete through this site may contain many of the above examples.
 
 ## What makes us think we can keep your information?  (Legal Basis for Storing the Data)
-The legal basis for us keeping the data on this site is your consent. Tjhis means that we store information because we believe that you have given consent for us to do so.
+The legal basis for us keeping the data on this site is your consent. This means that we store information because we believe that you have given consent for us to do so.
 
 Before we store personal information, we either ask for your consent or we state that by completing an action (for example, filling-in a form) that you give consent to us storing and processing your data.
 
