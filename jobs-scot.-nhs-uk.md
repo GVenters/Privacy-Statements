@@ -5,16 +5,17 @@
 Our policy is summarised in the commitments below:
 
 *	We are committed to telling you what information we store about you. 
-*	We are committed to telling you why we thing we can store it.
+*	We are committed to telling you why we think we can store it.
 *	We are committed to keeping what we store secure.
 *	We are committed to giving you as much control over what we store as reasonably possible.
 *	We are also committed to making these as clear as possible for you so if find some of the explanations on this page difficult to understand, please let us know. You can do this by sending an email to nss.showteam@nhs.net 
 
 ## Introduction
- This page explains how we collect and use your personal data and how you can exercise control over what we it.
+This page explains how we collect and use your personal data and how you can exercise control over what we do with it.
  
 ### What is personal data
-Personal data is any data that relates to you and which can be used on its own or in combination with other information that we hold to identify you. 
+Personal data is any data that relates to you and can be used on its own, or in combination with other information that we hold, to identify you. 
+
 Examples of information that identifies you could be could be your home address, your email address, your passport number, your driving licence number or your NHS identifier (CHI number).
 
 Examples of information that could be combined with other information to identify you could be your name, your date of birth, your postcode, your IP address or a web cookie, your ethnicity, religion, gender or religion.
@@ -22,10 +23,12 @@ Examples of information that could be combined with other information to identif
 Application forms that you can complete through this site may contain many of the above examples.
 
 ## What makes us think we can keep your information?  (Legal Basis for Storing the Data)
-When you enter information on a form in the site, we are keeping your data because we believe that you have consented to us keeping it. This means that we think that the legal basis for keeping the data is your consent.
+The legal basis for us keeping the data on this site is your consent. Tjhis means that we store information because we believe that you have given consent for us to do so.
+
+Before we store personal information, we either ask for your consent or we state that by completing an action (for example, filling-in a form) that you give consent to us storing and processing your data.
 
 ## What do we think you have allowed us to store and what will we do with it?
-We keep personal information that we believe you have consented to. We use it for the purposes set out below.
+We use the information that we collect for the purposes set out below.
 
 If you complete an application then we believe:
 1.	That you have allowed us to send on your application to the employers who are advertising jobs on this site. They will use the information for selection and recruitment of candidates seeking employment; for maintaining statistics on the fairness and equality of the recruitment process and, in the case of candidates who are successful in their applications, as part of their staff record. The actual employer that you send the information to is made clear in the advert for which you complete an application.
@@ -35,15 +38,9 @@ If you complete an application then we believe:
     * So that we are able to re-transmit the application to the employing organisation if there is any issue during the employment process.
     *	So that you can apply for other opportunities without having to re-enter the information from the form.
     
-Note that providing data for the statistics that are used for maintaining a fair and equal recruitment process is optional and there will be no impact on your individual application for employment should you not wish to answer these questions.
+Note that providing data for the statistics that are used for maintaining a fair and equal recruitment process is optional and there will be no impact on your individual application for employment if you don't wish to answer these questions.
 
 We believe that you have allowed us to do this as there is a notice at the beginning of our application form that tells you that you are giving consent when you complete an application.
-
-### Tracking cookies and compliance cookies
-
-We keep anonymised tracking cookies that can’t be used to track you as an individual but do how you the use of the website. Because they can’t be used to track you we don’t consider these to be personal information but we still need your consent to use. You can give your consent by clicking on the consent button on the cookie choice banner. If you click the “I consent” button, this will also set a compliance cookie that allows us to remember that you have given your consent. If you don’t click on the “I consent button” then the cookie notice will continue to appear whenever you access the site. We can only record consent on a device by device basis so if you access the site on a tablet, a work computer or a mobile phone, you’ll need to give consent for each one.
-
-We will continue to review our use of these cookies as best practice develops and make efforts to comply with best practice on anonymised tracking cookies.
 
 ## What if I want to withdraw my consent or want to be forgotten?
 
@@ -73,10 +70,19 @@ For our anonymous tracking cookies, you can effectively withdraw your consent at
 Yes.
 We keep session cookies (see our cookies page for more information).
 We do this to be able to operate the site correctly. Session cookies are used to make sure that your session is kept separate from other users of the site and to make sure that things like going from page to page on the site work properly. These cookies only last for as long as we think you are using the site and are essential for the website to function properly and to maintain its security. 
-How long we keep your data.
+
+We keep error and security logs for at least 12 months and potentially longer if we need to use them in connection with investigations of suspected malicious intent.
+
+### How long we keep your data.
 
 We take the information that we collect from your application forms and pass it on to the employer who is processing the vacancy so that they can progress your application. We keep your application on record for 90 days from the last time you applied.
 We keep error and security logs for at least 12 months and potentially longer if we need to use them in connection with investigations of suspected malicious or illegal intent.
+
+### Tracking cookies and compliance cookies
+
+We keep anonymised tracking cookies that can’t be used to track you as an individual but do track how you use the website. Because they can’t be used to track you we don’t consider these to be personal information but we still need your consent to use. You can give your consent by clicking on the consent button on the cookie choice banner. If you click the “I consent” button, this will also set a compliance cookie that allows us to remember that you have given your consent. If you don’t click on the “I consent button” then the cookie notice will continue to appear whenever you access the site. We can only record consent on a device by device basis so if you access the site on a tablet, a work computer or a mobile phone, you’ll need to give consent for each one.
+
+We will continue to review our use of these cookies as best practice develops and make efforts to comply with best practice on anonymised tracking cookies.
 
 ### International transfers
 We do not transfer any of your data outwith the UK.
@@ -141,14 +147,14 @@ If you specify that you do not want us to track you using this mechanism, we wil
 For information about how to remove cookies from your device, or how to block individual cookies from being received, please see the instructions and guidance at ico.org.uk. (https://ico.org.uk/global/cookies/ )
 
 ## Other browser-based local storage mechanisms
-As well as cookies, there are other similar ways of storing information on your browser, namely   Web Storage and Indexed Database. We do not use these on this site. 
+As well as cookies, there are other similar ways of storing information on your browser, such as Web Storage and Indexed Database. We do not use these on this site but we'll inform you here if we do in future.
 
 ### IP addresses and log files
 We collect a range of information on every request made for resources on this website in log files. We do this to measure the performance of the systems used to provide the site to maintain its security and to allow us to investigate in the event of suspected criminal activity.
 
 We also use them on occasion to track access trends across a number of years (up to 3 years).
 
-One of the items collected is the IP address associated with the device that is making a request. In certain circumstances, your IP address could be used to identify you. Because of this, we treat our log files for web requests as personal data and take steps to keep it secure and do not share un-anonymised log files with any 3rd party (except where we might need to do so in connection with suspected criminal activity). For traffic that appears to be accessing the site appropriately, we anonymise IP addresses logs during the logging process. For traffic that generates warnings, errors or alerts, we keep the information for a minimum of 12 months – longer if the records are used in connection with an active investigation.
+One of the items collected is the IP address associated with the device that is making a request. In certain circumstances, your IP address could be used to identify you. Because of this, we treat our log files for web requests as personal data and take steps to keep it secure and do not share un-anonymised log files with any 3rd party (except where we might need to do so in connection with suspected criminal activity or where otherwise legally bound to do so). For traffic that appears to be accessing the site appropriately, we anonymise IP addresses logs during the logging process. For traffic that generates warnings, errors or alerts, we keep the information for a minimum of 12 months – longer if the records are used in connection with an active investigation.
 
 ### Will anyone but you and NHS Scotland know that you’ve accessed this website?
 Yes. Every time you access any website, there are likely to be intermediate providers (such as your Internet Service Provider) who because you make the requests through services provided by them, will know that someone has visited the website. 
@@ -159,3 +165,7 @@ There are other ways that can identify your use of the website to another organi
 
 ### Further Information on GDPR
 https://www.eugdpr.org/ 
+
+### To suggest amendments to this form:
+https://github.com/GVenters/Privacy-Statements/edit/master/jobs-scot.-nhs-uk.md
+
