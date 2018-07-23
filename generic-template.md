@@ -1,12 +1,12 @@
-# Privacy
+# Privacy and cookies
 
 ## Collecting and using personal information
 We collect certain information or data about you when you use our website.
 
 This includes:
 
-    * information on how you use the site, using cookies
-    * the IP address that you are accessing the site from
+*    information on how you use the site, using cookies
+*    the IP address that you are accessing the site from
     
 If we store any other information about you, we'll let you know and you'll be able to decide whether or not you consent to us doing so before we collect it. For example, we might collect your email address if you use a contact, feedback or complaints form or if you send a an email.
     
