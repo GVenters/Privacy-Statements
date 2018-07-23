@@ -26,7 +26,7 @@ Cookies are small files, stored on your computer. Some of these are essential fo
 ## Withdrawing consent
 You can opt out of Google analytics cookies (external link). 
 
-If you change your mind about giving your consent to us holding information on your application, you can let us know and we’ll remove your details once we have verified your identity.
+If you change your mind about giving your consent to us holding information about you, you can let us know and we’ll remove your details once we have verified your identity.
 
 You can let us know by sending an email to nss.showteam@nhs.net.
 
